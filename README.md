@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi dear 👋, I'm João Júnior :D👋
+
+A Freelancer Web Developer focused on reaching the Tech Community with his projects
 
 <!--
 **eojoaojr/eojoaojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
