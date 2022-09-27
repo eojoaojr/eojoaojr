@@ -13,7 +13,7 @@
 - ⚡ Fun fact **I am part of the Ubuntu to Brazilian Portuguese Translators Team😜**
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=joaojuniorpy&show_icons=true" alt="maykbrito"/> 
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </p>
 
 <p align="center">
